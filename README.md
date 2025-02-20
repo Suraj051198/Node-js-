@@ -18,15 +18,17 @@ This API allows users to:
 1️⃣ Clone the repository:  
 ```sh
 git clone https://github.com/Suraj051198/Node-js-.git
+```sh
 
 2️⃣ Navigate to the project directory:
 ```sh
 npm install
+```sh
 
 3️⃣ Install dependencies:
 ```sh
 npm install
-
+```sh
 4️⃣ Configure the database:
 
     Create a MySQL database named studentDB.
@@ -35,7 +37,7 @@ npm install
 5️⃣ Start the server:
 ```sh
 npm start
-
+```sh
 
 🎯 Testing with Postman
 
@@ -52,4 +54,4 @@ This project is open-source and free to use.
    git add README.md
    git commit -m "Added README file"
    git push origin main
-
+```sh
