@@ -20,9 +20,11 @@ This API allows users to:
 git clone https://github.com/Suraj051198/Node-js-.git
 
 2️⃣ Navigate to the project directory:
+```sh
 npm install
 
 3️⃣ Install dependencies:
+```sh
 npm install
 
 4️⃣ Configure the database:
@@ -31,6 +33,7 @@ npm install
     Run the provided SQL script (students.sql) to create the students table.
 
 5️⃣ Start the server:
+```sh
 npm start
 
 
